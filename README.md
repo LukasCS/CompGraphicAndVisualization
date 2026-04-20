@@ -1,6 +1,6 @@
 # CS 330: Computational Graphics and Visualization - Final Project
 
-**Author:** bewoxito (Lukas Brkovic Leighton)  
+**Author:** LukasCS (Lukas Brkovic Leighton)  
 **Course:** CS-330 at Southern New Hampshire University  
 **Date:** April 2026  
 
